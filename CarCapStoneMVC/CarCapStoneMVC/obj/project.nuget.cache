@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hLYswh7bU3eohyRXaSMwMcfZcNj+4BBrI+pj7fmlpLQ8GSvLyqHK4IRKjmZrr7Juj9CPyXvPHxA6CA4valWwgA==",
+  "success": true,
+  "projectFilePath": "D:\\Grand Circus\\Grand Circus Docs\\NET Core\\CarCapStoneAPI\\CarCapStoneMVC\\CarCapStoneMVC\\CarCapStoneMVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tacol\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

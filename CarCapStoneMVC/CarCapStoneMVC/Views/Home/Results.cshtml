@@ -1,0 +1,19 @@
+﻿@model List<Car>
+
+<table style="width: 50%">
+    <tr>
+        <th>Year</th>
+        <th>Make</th>
+        <th>Model</th>
+        <th>Color</th>
+    </tr>
+    @foreach (Car c in Model)
+    {
+        <tr>
+            <td>@c.year</td>
+            <td>@c.make</td>
+            <td>@c.model</td>
+            <td>@c.color</td>
+        </tr>
+    }
+</table>
